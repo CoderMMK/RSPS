@@ -1,0 +1,19 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 1 Dark bow To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 10 Dragon arrow To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 12 Dragon med helm To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Abyssal whip To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 4 Dragon boots To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 5 Dark bow To Predator
+--------------------------------------------------

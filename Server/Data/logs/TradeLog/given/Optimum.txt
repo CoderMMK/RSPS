@@ -1,0 +1,109 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 500000 Coins To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Amulet of strength To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Fire rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Water rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Blood rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Death rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Mind rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Air rune To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Iron scimitar To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Shortbow To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 150 Bronze arrow To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Monk's robetop To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Monk's bottoms To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 120 Lobster To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Bronze axe To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1000 Fishing bait To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Big fishing net To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Bronze pickaxe To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Small fishing net To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Harpoon To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Lobster pot To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Fly fishing rod To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Tinderbox To Ferg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dragon dagger To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2285160 Coins To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of fury To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of fury To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Adam kiteshield(h) To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Adam full helm(t) To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 38 Dragon bones To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune platelegs (g) To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 87 Swordfish To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Dragon boots To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 20 Blood rune To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 120 Death rune To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 100 Water rune To Goldhero
+--------------------------------------------------

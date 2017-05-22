@@ -1,0 +1,16 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 1 Jack lantern mask To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Flared trousers To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Gnome scarf To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Reindeer hat To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 500000 Coins To Touch
+--------------------------------------------------

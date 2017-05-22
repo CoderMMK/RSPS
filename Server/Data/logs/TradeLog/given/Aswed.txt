@@ -1,0 +1,28 @@
+
+Year : 2014	Month : 3	Day : 17
+Given 500000 Coins To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Amulet of strength To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 200 Lobster To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Air rune To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Mind rune To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Fire rune To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Death rune To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Blood rune To Good times
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Water rune To Good times
+--------------------------------------------------

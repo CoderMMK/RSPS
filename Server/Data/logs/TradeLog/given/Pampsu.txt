@@ -1,0 +1,13 @@
+
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Euphoria
+--------------------------------------------------

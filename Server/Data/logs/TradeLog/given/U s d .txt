@@ -1,0 +1,64 @@
+
+Year : 2014	Month : 3	Day : 18
+Given 3 Purple partyhat To Razor
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 3 3rd age platelegs To Razor
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 3 3rd age platebody To Razor
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 3 3rd age kiteshield To Razor
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Euphoria
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Smited ags
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Smited ags
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Smited ags
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Smited ags
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Kollins
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Lee
+--------------------------------------------------

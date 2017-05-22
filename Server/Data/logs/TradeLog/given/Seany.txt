@@ -1,0 +1,52 @@
+
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's platelegs To Josh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's greataxe To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's greataxe To Nate dogg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To Nate dogg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platebody To Nate dogg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To Nate dogg
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dragon boots To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Amulet of glory(4) To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Berserker ring To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dragon boots To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's greataxe To Paul
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's greataxe To 2k
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's helm To 2k
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platelegs To 2k
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platebody To 2k
+--------------------------------------------------

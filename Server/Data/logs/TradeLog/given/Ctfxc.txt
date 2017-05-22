@@ -1,0 +1,16 @@
+
+Year : 2014	Month : 3	Day : 10
+Given 1 Super attack(3) To Death row
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Super strength(3) To Death row
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Black cavalier To Death row
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Dark cavalier To Death row
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Amulet of strength To Death row
+--------------------------------------------------

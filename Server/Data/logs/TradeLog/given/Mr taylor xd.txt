@@ -1,0 +1,13 @@
+
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platebody To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platelegs To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's helm To Touch
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's greataxe To Touch
+--------------------------------------------------

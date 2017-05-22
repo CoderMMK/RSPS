@@ -1,0 +1,46 @@
+
+Year : 2014	Month : 3	Day : 15
+Given 1 Amulet of strength To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Drag dagger(p++) To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Ring of recoil To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Monk's robetop To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Hat To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Climbing boots To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Monk's bottoms To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To I need ess
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To I need ess
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To I need ess
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To I need ess
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Shark To I need ess
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Shark To Vike
+--------------------------------------------------

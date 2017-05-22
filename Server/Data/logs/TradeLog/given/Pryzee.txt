@@ -1,0 +1,70 @@
+
+Year : 2014	Month : 3	Day : 17
+Given 500000 Coins To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Amulet of strength To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Iron scimitar To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Shortbow To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 150 Bronze arrow To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Fire rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Blood rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Death rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Mind rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Air rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100 Water rune To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 120 Lobster To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Monk's bottoms To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Monk's robetop To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Tinderbox To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Fly fishing rod To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Small fishing net To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Bronze pickaxe To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Bronze axe To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1000 Fishing bait To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Big fishing net To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Harpoon To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Lobster pot To Azza
+--------------------------------------------------

@@ -1,0 +1,160 @@
+
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(2) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ranging potion(3) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ranging potion(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ranging potion(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ranging potion(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Super restore(4) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Super restore(1) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Super restore(2) To R4ng3 pur3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dragonfire shield To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Drag dagger(p++) To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Ranger boots To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Archers ring To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Robin hood hat To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Amulet of fury To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 34 Dragon bones To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 3rd age platebody To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 3rd age platelegs To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 White partyhat To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Santa hat To Nas
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5 Ahrim's robeskirt To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 3 Godsword shard 1 To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's helm To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 4 Ahrim's hood To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5 Dharok's platebody To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Ahrim's staff To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5348 Dragon bolts (e) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Godsword shard 2 To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Berserker ring To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos godsword To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Flared trousers To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Reindeer hat To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Saradomin godsword To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of fury To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Reindeer hat To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dragon chainbody To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 4 Abyssal whip To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Gnome scarf To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Godsword blade To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Ahrim's robetop To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5962 Super attack(4) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 13979 Saradomin brew(4) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 10127 Super restore(4) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 3528 Shark To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 8 Dharok's platelegs To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1960 Ranging potion(4) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 484978121 Coins To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5961 Super strength(4) To Thx4urcash
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2147000000 Coins To Ricci1337
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Slayer helmet To Ricci1337
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2147000000 Coins To Ricci1337
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Slayer helmet To Ricci1337
+--------------------------------------------------

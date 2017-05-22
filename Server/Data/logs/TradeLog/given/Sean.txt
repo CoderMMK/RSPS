@@ -1,0 +1,358 @@
+
+Year : 2014	Month : 3	Day : 11
+Given 1 Red boater To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super strength(4) To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super attack(4) To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's greataxe To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's platebody To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's greataxe To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's greataxe To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's greataxe To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's platebody To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 30000000 Coins To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dharok's platelegs To Shaolinflynn
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 30000000 Coins To S8n
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platebody To Bendover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To Bendover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's greataxe To Bendover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To Bendover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dragon boots To Ix karmin ix
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To Ix karmin ix
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 10000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 10000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 10000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 20000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 40000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 80000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 80000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 160000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 160000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 320000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 640000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1280000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1280000000 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2147483647 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2147483647 Coins To Bro zuz
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2147483647 Coins To Bro zuz
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1147000000 Coins To Egg boy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 220000000 Coins To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 500000000 Coins To Deco
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 97000000 Coins To 666
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1500817821 Coins To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos tassets To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos tassets To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos tassets To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Bandos chestplate To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2 Bandos tassets To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 3 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl godsword To Dopedeala
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos chestplate To Djrocks40
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Bandos tassets To Djrocks40
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Berserker ring To Djrocks40
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 10000000 Coins To Mancat
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Ahrim's robeskirt To Hannn
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 5000000 Coins To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Godsword shard 3 To Saitix
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Easter egg To Tyson478
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 100000000 Coins To Tyson478
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 47000000 Coins To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 50000000 Coins To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 50000000 Coins To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl godsword To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Abyssal whip To Ron
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Dragon boots To Napalm
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ourg bones To Azza
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 500000000 Coins To Sour diesel
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Bandos tassets To Sour diesel
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Bandos chestplate To Sour diesel
+--------------------------------------------------

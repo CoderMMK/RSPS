@@ -1,0 +1,22 @@
+
+Year : 2014	Month : 3	Day : 13
+Given 500000 Coins To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Air rune To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Mind rune To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Death rune To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Fire rune To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Blood rune To Priesting
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 100 Water rune To Priesting
+--------------------------------------------------

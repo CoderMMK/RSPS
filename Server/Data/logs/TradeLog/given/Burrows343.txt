@@ -1,0 +1,25 @@
+
+Year : 2014	Month : 3	Day : 10
+Given 100 Mind rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 580000 Coins To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 100 Death rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 100 Blood rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 100 Fire rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 100 Water rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 100 Air rune To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Bandos boots To Santa
+--------------------------------------------------

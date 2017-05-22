@@ -1,0 +1,82 @@
+
+Year : 2014	Month : 3	Day : 13
+Given 1 Slayer helmet To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Rubber chicken To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Chicken wings To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Chicken head To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Chicken legs To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Chicken feet To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 3600 Death rune To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1800 Blood rune To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 151 Shark To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 12 Saradomin brew(4) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 12 Super restore(4) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 16 Super strength(4) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 16 Super attack(4) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 5400 Water rune To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 17059220 Coins To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 11 Vial To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 2 Super restore(1) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 2 Super attack(1) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 2 Super strength(1) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(3) To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 568850 Coins To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Abyssal whip To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Berserker ring To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dragon boots To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Slayer helmet To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 4000000 Coins To Bene
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Abyssal whip To Bene
+--------------------------------------------------

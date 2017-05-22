@@ -1,0 +1,100 @@
+
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 White partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Purple partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Green partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Red partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Yellow partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Blue partyhat To Leon
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dragon scimitar To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate cuisse To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Team-30 cape To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Climbing boots To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate sallet To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Granite maul To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Drag dagger(p++) To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of strength To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate hauberk To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Ring of recoil To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Team-30 cape To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate cuisse To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Ring of recoil To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of strength To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate sallet To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate hauberk To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Climbing boots To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Team-30 cape To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of strength To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate cuisse To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate sallet To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Ring of recoil To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Climbing boots To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Initiate hauberk To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Super strength(3) To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Super restore(2) To Kebabski
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Super attack(3) To Kebabski
+--------------------------------------------------

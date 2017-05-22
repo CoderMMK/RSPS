@@ -1,0 +1,46 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To 00o0n00o
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platebody To Oatmeal
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's platelegs To Pack yak
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's platebody To Pack yak
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's helm To Pack yak
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's greataxe To Pack yak
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl chestplate To Pack yak
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl chestplate To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl hilt To Ripping4
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 20000020 Coins To Sss
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's greataxe To Killerofdawn
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Dharok's platebody To A09zz
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Dharok's platebody To Hipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Dharok's helm To Hipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Dharok's greataxe To Hipster
+--------------------------------------------------

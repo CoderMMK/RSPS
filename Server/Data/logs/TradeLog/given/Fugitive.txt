@@ -1,0 +1,46 @@
+
+Year : 2014	Month : 3	Day : 19
+Given 1 3rd age platebody To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 3rd age platelegs To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 3rd age full helmet To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 3rd age kiteshield To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Red h'ween mask To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Purple partyhat To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Santa hat To Oxzor v2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Santa hat To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Santa hat To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Ardi player2
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Armadyl godsword To Ardi player2
+--------------------------------------------------

@@ -1,0 +1,16 @@
+
+Year : 2014	Month : 3	Day : 18
+Given 2 Purple partyhat To Blade
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Blade
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Blade
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Blade
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1150000 Coins To Blade
+--------------------------------------------------

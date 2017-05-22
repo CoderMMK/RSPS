@@ -1,0 +1,307 @@
+
+Year : 2014	Month : 3	Day : 10
+Given 1 Armadyl godsword To Xanax
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 2147483647 Coins To I got 2147m
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 50005000 Green h'ween mask To Pixels in 3d
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 99999999 Dharok's platebody To Pixels in 3d
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 50000000 Abyssal whip To Pixels in 3d
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 5000000 Berserker ring To Pixels in 3d
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 5000000 Amulet of fury To Pixels in 3d
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platelegs To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant plateskirt To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant platebody To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant 2h sword To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant med helm To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant dagger To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant sq shield To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Adamant chainbody To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rune warhammer To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rune med helm To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rune sq shield To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rune sword To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rock-shell boots To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Amulet of strength To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Rune battleaxe To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Obsidian cape To Trap house
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 50000001 Santa hat To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 15000000 Santa hat To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 36 Rune warhammer To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 82 Rune sq shield To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 103 Rune med helm To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 49 Rune scimitar To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 45 Adamant platelegs To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 149 Adamant platebody To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 50 Rune knife To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 252 Rune chainbody To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Dragon med helm To Blest
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Red d'hide body To Blest
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Blue d'hide chaps To Blest
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Super strength(2) To Eat cocaine
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Super attack(2) To Eat cocaine
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 639 Iron ore To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Santa hat To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Santa hat To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 10
+Given 1 Santa hat To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Grain To Ardi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Grain To Eraze
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dragon boots To Eraze
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dragon boots To Avicii
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Abyssal whip To Eraze
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Rune 2h sword To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Team-40 cape To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Hat To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Ring of recoil To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Amulet of strength To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Monk's robetop To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Monk's bottoms To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(4) To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Super restore(4) To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Rune scimitar To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Rune 2h sword To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Amulet of strength To 2high2risk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Shark To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 35000000 Coins To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Godsword shard 1 To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Godsword shard 2 To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune 2h sword To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune platebody To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune scimitar To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune platelegs To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune full helm To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune kiteshield To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune 2h sword To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of strength To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 137 Adamant arrow To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Amulet of strength To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Yew shortbow To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Hat To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Monk's robetop To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Team-6 cape To Tyleridk
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl godsword To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 3rd age platelegs To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl helmet To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl plateskirt To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl plateskirt To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl helmet To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl plateskirt To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Armadyl plateskirt To That one guy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Rune 2h sword To Pack yak
+--------------------------------------------------

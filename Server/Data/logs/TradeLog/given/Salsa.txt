@@ -1,0 +1,124 @@
+
+Year : 2014	Month : 3	Day : 17
+Given 28790000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's robeskirt To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's hood To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 26000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's hood To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's robeskirt To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 32000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 2 Ahrim's hood To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 2 Ahrim's robeskirt To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 20000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's robeskirt To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 1 Ahrim's hood To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 20000000 Coins To Sss
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 20000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 20000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 25000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 25000000 Coins To Tyrone
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Abyssal whip To Lucid187
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Abyssal whip To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Dragon dagger To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 20989440 Coins To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 150 Super strength(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 150 Super attack(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 190 Super restore(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 300 Saradomin brew(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 30 Ranging potion(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 3 Anti-dragon shield To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 5 Amulet of glory(4) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 160 Shark To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Helm of neitiznot To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Helm of neitiznot To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Helm of neitiznot To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 3 Dark bow To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Helm of neitiznot To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Helm of neitiznot To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 5 Dragon arrow To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 2 Abyssal whip To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 4 Dragon dagger To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 5 Drag dagger(p++) To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Slayer helmet To Shadi
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 19
+Given 1 Amulet of fury To Shadi
+--------------------------------------------------

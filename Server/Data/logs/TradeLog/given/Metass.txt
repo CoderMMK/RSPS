@@ -1,0 +1,25 @@
+
+Year : 2014	Month : 3	Day : 17
+Given 500000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 2000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 4000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 8000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 16000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 32000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 64000000 Coins To Ihatehipster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 17
+Given 128000000 Coins To Ihatehipster
+--------------------------------------------------

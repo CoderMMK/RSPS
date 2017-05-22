@@ -1,0 +1,277 @@
+
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 1 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 2 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 4 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 8 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 16 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 32 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age platelegs To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 64 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 103 Purple partyhat To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 103 3rd age platebody To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 103 3rd age kiteshield To Mushies
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 18
+Given 103 3rd age platelegs To Mushies
+--------------------------------------------------

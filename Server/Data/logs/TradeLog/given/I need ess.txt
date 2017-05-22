@@ -1,0 +1,319 @@
+
+Year : 2014	Month : 3	Day : 10
+Given 2147000000 Coins To Santa
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 11
+Given 10000 Rune essence To Predator
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 12
+Given 1 Dharok's greataxe To Hectic
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Karil's leatherskirt To Sam
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Karil's leatherskirt To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Karil's leathertop To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Armadyl helmet To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1000000 Coins To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Dragonfire shield To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 13
+Given 1 Archers ring To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's robetop To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's robeskirt To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's hood To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 5000005 Coins To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platebody To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's greataxe To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 6500000 Coins To Snakbar
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Godsword shard 1 To Water
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Godsword shard 2 To Water
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 10000000 Coins To Water
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platebody To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's platelegs To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's greataxe To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dharok's helm To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's hood To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's robetop To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ahrim's robeskirt To Tweetmykills
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Armadyl godsword To Branden
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Armadyl chestplate To Eraze
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl godsword To God ns
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platelegs To Blade
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 25000000 Coins To Water
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl plateskirt To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl helmet To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Amulet of fury To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl chestplate To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dragonfire shield To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl godsword To Rambo y0u
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 7500000 Coins To Phat shock
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl hilt To Razor
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Vial To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Super restore(4) To I need ess3
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl godsword To Tuna
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 8000000 Coins To Ripping4
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Vonk853
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Ripping4
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Ripping4
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Berserker ring To Of nature
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Ahrim's robetop To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Ahrim's robeskirt To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platelegs To Dis dick
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's platebody To Dis dick
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dharok's helm To Dis dick
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Dis dick
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Dragon boots To Dis dick
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl helmet To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl chestplate To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Armadyl plateskirt To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 5 Dharok's greataxe To Crxy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 5 Dharok's platelegs To Crxy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 5 Dharok's platebody To Crxy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 5 Dharok's helm To Crxy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 118072286 Coins To Lee
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Leftover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Tri-jester scarf To Leftover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Tri-jester hat To Leftover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Slayer helmet To Leftover
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Swordfish
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Vike
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Lobster
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Collect
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Moshed
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Heyz
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Abyssal whip To Crxy
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Amulet of fury To Swordfish
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 2 Verac's plateskirt To Swordfish
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 15
+Given 1 Archers ring To Swordfish
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune platelegs (g) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune kiteshield (g) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Gnome scarf To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Flared trousers To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Rune platebody (g) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1852 Astral rune To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 26054 Water rune To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 21044 Death rune To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 3490 Earth rune To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 8478 Blood rune To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2192 Bolt rack To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 14 Amulet of strength To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 17 Super restore(4) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 180 Super attack(4) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 179 Super strength(4) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 108 Ranging potion(4) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 319 Saradomin brew(4) To Gf im pingu
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 4800 Shark To Gf im pingu
+--------------------------------------------------

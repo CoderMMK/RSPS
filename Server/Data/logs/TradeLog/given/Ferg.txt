@@ -1,0 +1,109 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 100 Air rune To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Granite maul To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Tzhaar-ket-om To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ring of recoil To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Magic shortbow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 112 Rune arrow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Amulet of glory(4) To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Black d'hide chaps To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Leather body To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Hat To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Tzhaar-ket-om To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Black d'hide chaps To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Magic shortbow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 111 Rune arrow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Amulet of glory(4) To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Climbing boots To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Ring of recoil To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Hat To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Climbing boots To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Amulet of glory(4) To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Magic shortbow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Tzhaar-ket-om To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Black d'hide chaps To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Leather body To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 109 Rune arrow To Kushh
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dragon boots To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl chestplate To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl chestplate To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl plateskirt To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl plateskirt To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Armadyl plateskirt To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Godsword shard 3 To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 1 Abyssal whip To Goldhero
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 16
+Given 2904423 Coins To Goldhero
+--------------------------------------------------

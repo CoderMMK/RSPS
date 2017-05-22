@@ -1,0 +1,43 @@
+
+Year : 2014	Month : 3	Day : 14
+Given 2997 Blood rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 10996 Astral rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 3000 Soul rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 3000 Chaos rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1678213 Coins To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 94 Ranging potion(4) To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 100 Saradomin brew(4) To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1012 Dragon bolts (e) To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Archers ring To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 1 Dragonfire shield To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 4 Archers ring To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 2756 Nature rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 3000 Water rune To Puikula
+--------------------------------------------------
+Year : 2014	Month : 3	Day : 14
+Given 22990 Earth rune To Puikula
+--------------------------------------------------
